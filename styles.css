@@ -3,6 +3,7 @@
 	background-color:black;
 	width:200px;
 	height:2px;
+	position:absolute;
 }
 .line1{ 
 	animation: rotate 1s linear infinite;
