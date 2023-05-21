@@ -4,17 +4,10 @@
 	width:200px;
 	height:2px;
 }
-.line{
-	animation:rotate 1s linear infinite;
+.line1{ 
+	animation: rotate 1s linear infinite;
 }
-@keyframes rotate{
-	from{
-		transform: rotate(0deg);
-	}
-	to{
-		transform: rotate(360deg);
-	}
-}
+
 .container{
 	margin-top:20px;
 	background:lightgray;
@@ -23,4 +16,13 @@
 	display:flex;
 	justify-content:center;
 	align-items:center;
+}
+
+@keyframes rotate{
+	from{
+		transform: rotate(0deg);
+	}
+	to{
+		transform: rotate(360deg);
+	}
 }
