@@ -8,9 +8,9 @@ function show(){
 	contain.append(show)
 	
 }
-function startAnimation() {
+// function startAnimation() {
 
-	let line=document.getElementById("line")
-	line.className("line1")
+// 	let line=document.getElementById("line")
+// 	line.className("line1")
 	
-}
+// }

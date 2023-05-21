@@ -4,10 +4,11 @@
 	width:200px;
 	height:2px;
 	position:absolute;
-}
-.line1{ 
 	animation: rotate 1s linear infinite;
 }
+/* .line1{  */
+/* 	animation: rotate 1s linear infinite; */
+/*}*/
 
 .container{
 	margin-top:20px;
